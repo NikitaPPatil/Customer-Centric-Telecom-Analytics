@@ -8,15 +8,15 @@ This project involves creating a comprehensive and creative Power BI dashboard f
 
 **Key Features**
 The dashboard includes the following KPIs and metrics:
-**Overall Customer Satisfaction**: Visual representation of customer satisfaction scores.
-**Overall Calls Answered/Abandoned**: Analysis of call metrics including the number of calls answered and abandoned.
-**Calls by Time**: Breakdown of calls by different time intervals to identify peak periods.
-**Average Speed of Answer**: Measurement of the average time taken to answer calls.
+**Overall Customer Satisfaction**: Visual representation of customer satisfaction scores.<br>
+**Overall Calls Answered/Abandoned**: Analysis of call metrics including the number of calls answered and abandoned.<br>
+**Calls by Time**: Breakdown of calls by different time intervals to identify peak periods.<br>
+**Average Speed of Answer**: Measurement of the average time taken to answer calls.<br>
 **Agent’s Performance Quadrant**: A quadrant chart showing average handle time (talk duration) versus the number of calls answered, highlighting agent performance.<br>
 
 **Tools and Technologies**
-Power BI: Utilized for creating interactive and visually appealing dashboards.
-Data Sources: The dataset provided by the client, including various call and customer service metrics.
+**Power BI**: Utilized for creating interactive and visually appealing dashboards.<br>
+**Data Sources**: The dataset provided by the client, including various call and customer service metrics.<br>
 
 **Outcome**
 The completed dashboard offers a clear and insightful visualization of the telecom company’s performance metrics, enabling data-driven decisions to enhance customer satisfaction and operational efficiency. This project demonstrates the application of advanced Power BI skills, contributing to the ongoing upskilling journey at PwC.

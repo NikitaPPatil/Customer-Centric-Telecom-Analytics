@@ -20,3 +20,4 @@ The dashboard includes the following KPIs and metrics:<br>
 
 **Outcome**<br>
 The completed dashboard offers a clear and insightful visualization of the telecom company’s performance metrics, enabling data-driven decisions to enhance customer satisfaction and operational efficiency. This project demonstrates the application of advanced Power BI skills, contributing to the ongoing upskilling journey at PwC.
+![image][Call_Trends.JPG](https://github.com/NikitaPPatil/Telecom-Marketing-KPI-Dashboard/blob/main/Call_Trends.JPG)

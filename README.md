@@ -1,5 +1,4 @@
-# Telecom Marketing KPI Dashboard
-
+# Customer-Centric Telecom Analytics
 **Project Overview**<br>
 In the digital revolution, it's crucial to equip individuals with digital awareness, emotional intelligence, and creativity. As part of PwC's initiative to upskill employees and transform them into "Digital Accelerators," this project focuses on enhancing data visualization skills using Power BI.
 
